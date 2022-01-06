@@ -38,8 +38,11 @@ You can do this by either achieving all 3 endings (the intended way) or access t
 the Directories menu in the Debug options.
 
 ![image](https://user-images.githubusercontent.com/96433729/148458931-ccdc6140-341a-4218-8cdd-406a4837cf2a.png)
+
 ![image](https://user-images.githubusercontent.com/96433729/148458947-76e73f79-7475-4bae-8abf-7c559061192b.png)
+
 ![image](https://user-images.githubusercontent.com/96433729/148458978-90d8c125-5eb5-46f2-a39e-346e3ee16c41.png)
+
 ![image](https://user-images.githubusercontent.com/96433729/148459003-e9a96d91-13bc-431a-97f1-c4824217fb29.png)
 
 ## Step 5: Launch the corresponding Cartridge number
