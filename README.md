@@ -13,11 +13,15 @@ Works as of the current JesusAI version.
 # Tutorial
 ## Step 1: Download Epoch
 
-Text goes here
+You can download Epoch from the releases tab once it's fully released, 
+or from the GitHub page.
+
+![image](https://user-images.githubusercontent.com/96433729/148458481-280af397-e9c1-4d99-a595-073212bd6d6c.png)
 
 ## Step 2: Download JesusAI
 
-Text goes here
+You can download JesusAI [here](https://github.com/JesusAIexperience/JesusAI).
+You need JesusAI to even use Epoch anyway..
 
 ## Step 3: Rename Epoch
 
