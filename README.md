@@ -1,22 +1,22 @@
-# Epoch
+# Unix Epoch
 ## A simple mod loader for JesusAI
 ## Created by @schneerocket
 
-Epoch lets you inject as many mods as you want using JesusAI's code base.
+Unix Epoch lets you inject as many mods as you want using JesusAI's code base.
 
-Epoch makes the process as easy as possible, including the necessary lines and files JesusAI
-checks for during its launching stages. Epoch works by imitating a real JesusAI Cartridge, then
-injecting its files into JesusAI, allowing up to 20 custom mods to be launched from the program.
+Unix Epoch makes the process as easy as possible, including the necessary lines and files JesusAI
+checks for during its launching stages. Unix Epoch works by imitating a real JesusAI Cartridge, 
+then injecting its files into JesusAI, allowing up to 20 custom mods to be launched from the program.
 
 Works as of the current JesusAI version.
 
 # Tutorial
-## Step 1: Download Epoch
+## Step 1: Download Unix Epoch
 
-You can download Epoch from the releases tab once it's fully released, 
+You can download Unix Epoch from the releases tab once it's fully released, 
 or from the GitHub page.
 
-![image](https://user-images.githubusercontent.com/96433729/148458481-280af397-e9c1-4d99-a595-073212bd6d6c.png)
+![image](https://user-images.githubusercontent.com/96433729/148608919-1d88baf6-7fc0-4652-a496-69fec5cfdce1.png)
 
 ## Step 2: Download JesusAI
 
@@ -25,9 +25,9 @@ You need JesusAI to even use Epoch anyway..
 
 ![image](https://user-images.githubusercontent.com/96433729/148458672-acfa025f-b672-41ea-a70f-44b5a70aec8e.png)
 
-## Step 3: Rename Epoch
+## Step 3: Rename Unix Epoch
 
-To make Epoch inject properly, you will need to rename it to either "Cartridge 1", 
+To make Unix Epoch inject properly, you will need to rename it to either "Cartridge 1", 
 "Cartridge 2" or "Cartridge 3". Otherwise, Epoch cannot work properly.
 
 ![image](https://user-images.githubusercontent.com/96433729/148458778-0593b822-3059-497f-ae5b-57b60cb8e42e.png)
@@ -51,13 +51,13 @@ Launch the Cartridge number which you renamed (e.g. load 1 if you renamed it to 
 
 ![image](https://user-images.githubusercontent.com/96433729/148459102-256c5435-e8ea-4c16-8048-bf07b5e12954.png)
 
-## Step 6: Load Epoch
+## Step 6: Load Unix Epoch
 
-Simply hit enter. If you did everything correct, Epoch should now load properly.
+Simply hit enter. If you did everything correct, Unix Epoch should now load properly.
 
 ![image](https://user-images.githubusercontent.com/96433729/148459189-80238d34-b745-41a4-a1ed-ab705babd215.png)
 
 ## Step 7: Enjoy your Custom Mods!
 
-You can load the Epoch Mods List by typing "1", exit the program by typing 
+You can load the Unix Epoch Mods List by typing "1", exit the program by typing 
 "2" or returning to JesusAI by typing "3".
