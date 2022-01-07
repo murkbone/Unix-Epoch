@@ -1,6 +1,6 @@
 @echo off
 cls
-title Epoch - Mod Loader
+title Unix Epoch - Mod Loader
 color 0f
 
 :injectionchecker
@@ -12,7 +12,7 @@ goto successfulinjection
 
 :successfulinjection
 cls
-title Epoch - Mod Loader [INJECTED]
+title Unix Epoch - Mod Loader [INJECTED]
 echo                   .@% .@@                                        
 echo                     .@@                                          
 echo             *@% .@% .@@  @@  @@                                  
@@ -38,10 +38,10 @@ echo           /@@@@@@@@@@@@@@@@@@@@@@
 echo           /@@@@@@@@@@@@@@@@@@@@@@                                
 echo           /@@@@@@@@@@@@@@@@@@@@@@                                
 echo         (@@@@@@@@@@@@@@@@@@@@@@@@@@     
-echo            EPOCH MOD INJECTOR
-echo        COPYRIGHT SCHNEEROCKET 2022
+echo            UNIX EPOCH MOD LOADER
+echo         COPYRIGHT SCHNEEROCKET 2022
 echo[
-echo Welcome to Epoch.
+echo Welcome to Unix Epoch.
 echo Please select an option.
 echo 1. View Mod List
 echo 2. Exit
@@ -60,7 +60,7 @@ goto successfulinjection
 
 :unsuccessfulinjection
 cls
-title Epoch - Mod Loader [INJECTION FAILED]
+title Unix Epoch - Mod Loader [INJECTION FAILED]
 echo                   .@% .@@                                        
 echo                     .@@                                          
 echo             *@% .@% .@@  @@  @@                                  
@@ -86,10 +86,10 @@ echo           /@@@@@@@@@@@@@@@@@@@@@@
 echo           /@@@@@@@@@@@@@@@@@@@@@@                                
 echo           /@@@@@@@@@@@@@@@@@@@@@@                                
 echo         (@@@@@@@@@@@@@@@@@@@@@@@@@@     
-echo            EPOCH MOD INJECTOR
-echo        COPYRIGHT SCHNEEROCKET 2022
+echo            UNIX EPOCH MOD LOADER
+echo         COPYRIGHT SCHNEEROCKET 2022
 echo[
-echo Welcome to Epoch.
+echo Welcome to Unix Epoch.
 echo Please select an option.
 echo 1. View Mod List
 echo 2. Exit
@@ -99,7 +99,7 @@ echo Copyright 2022 schneerocket
 echo Version: v1.05
 echo Last update: 06/01/2022
 echo INJECTION STATUS: Unsuccessful
-echo Reload Epoch through JesusAI and try again!
+echo Reload Unix Epoch through JesusAI and try again!
 echo[
 set /p "unsuccess=?: "
 if "%unsuccess%" equ "2" exit
