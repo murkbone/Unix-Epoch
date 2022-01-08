@@ -49,7 +49,7 @@ echo 3. Return to JesusAI
 echo[
 echo Copyright 2022 schneerocket
 echo Version: v1.05
-echo Last update: 06/01/2022
+echo Last update: 08/01/2022
 echo INJECTION STATUS: Successful
 echo[
 set /p "success=?: "
@@ -98,7 +98,7 @@ echo 3. Return to JesusAI
 echo[
 echo Copyright 2022 schneerocket
 echo Version: v1.05
-echo Last update: 06/01/2022
+echo Last update: 08/01/2022
 echo INJECTION STATUS: Unsuccessful
 echo Reload Unix Epoch through JesusAI and try again!
 echo[
