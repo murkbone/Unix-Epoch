@@ -8,7 +8,7 @@ Unix Epoch makes the process as easy as possible, including the necessary lines 
 checks for during its launching stages. Unix Epoch works by imitating a real JesusAI Cartridge, 
 then injecting its files into JesusAI, allowing up to 20 custom mods to be launched from the program.
 
-Works as of the current JesusAI version.
+Works as of the current JesusAI version. Windows only!
 
 # Tutorial
 ## Step 1: Download Unix Epoch
