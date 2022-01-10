@@ -10,7 +10,7 @@ then injecting its files into JesusAI, allowing up to 20 custom mods to be launc
 
 Works as of the current JesusAI version. Windows only!
 
-# Tutorial
+# Setup Guide
 ## Step 1: Download Unix Epoch
 
 You can download Unix Epoch from the releases tab once it's fully released, 
