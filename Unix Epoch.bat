@@ -38,8 +38,8 @@ echo           /@@@@@@@@@@@@@@@@@@@@@@
 echo           /@@@@@@@@@@@@@@@@@@@@@@                                
 echo           /@@@@@@@@@@@@@@@@@@@@@@                                
 echo         (@@@@@@@@@@@@@@@@@@@@@@@@@@     
-echo            UNIX EPOCH MOD LOADER
-echo         COPYRIGHT SCHNEEROCKET 2022
+echo           UNIX EPOCH - MOD LOADER
+echo           COPYRIGHT DREZMOR 2022
 echo[
 echo Welcome to Unix Epoch.
 echo Please select an option.
@@ -47,7 +47,7 @@ echo 1. View Mod List
 echo 2. Exit
 echo 3. Return to JesusAI
 echo[
-echo Copyright 2022 schneerocket
+echo Copyright 2022 DREZMOR
 echo Version: v1.05
 echo Last update: 08/01/2022
 echo INJECTION STATUS: Successful
@@ -87,8 +87,8 @@ echo           /@@@@@@@@@@@@@@@@@@@@@@
 echo           /@@@@@@@@@@@@@@@@@@@@@@                                
 echo           /@@@@@@@@@@@@@@@@@@@@@@                                
 echo         (@@@@@@@@@@@@@@@@@@@@@@@@@@     
-echo            UNIX EPOCH MOD LOADER
-echo         COPYRIGHT SCHNEEROCKET 2022
+echo           UNIX EPOCH - MOD LOADER
+echo           COPYRIGHT DREZMOR 2022
 echo[
 echo Welcome to Unix Epoch.
 echo Please select an option.
@@ -96,7 +96,7 @@ echo 1. View Mod List
 echo 2. Exit
 echo 3. Return to JesusAI
 echo[
-echo Copyright 2022 schneerocket
+echo Copyright 2022 DREZMOR
 echo Version: v1.05
 echo Last update: 08/01/2022
 echo INJECTION STATUS: Unsuccessful
