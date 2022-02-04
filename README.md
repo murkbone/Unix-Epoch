@@ -1,6 +1,6 @@
 # Unix Epoch
 ## A simple mod loader for JesusAI
-## Created by DREZMOR
+## Created by meowflluff
 
 Unix Epoch lets you inject as many mods as you want using JesusAI's code base.
 
@@ -21,7 +21,7 @@ or from the GitHub page.
 ## Step 2: Download JesusAI
 
 You can download JesusAI [here](https://github.com/JesusAIexperience/JesusAI).
-You need JesusAI to even use Epoch anyway..
+You need JesusAI to even use Unix Epoch anyway..
 
 ![image](https://user-images.githubusercontent.com/96433729/148458672-acfa025f-b672-41ea-a70f-44b5a70aec8e.png)
 
