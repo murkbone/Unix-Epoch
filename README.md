@@ -1,6 +1,6 @@
 # Unix Epoch
 ## A simple mod loader for JesusAI
-## Created by meowflluff
+## Created by meowfluff
 
 Unix Epoch lets you inject as many mods as you want using JesusAI's code base.
 
